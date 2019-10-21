@@ -1,2 +1,2 @@
-# Daily Logout Example.
-Daily Logout using WorkManager in android example.
+# Daily Auto Logout Example.
+Daily Auto Logout using WorkManager in android example.
